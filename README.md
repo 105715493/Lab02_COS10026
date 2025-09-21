@@ -85,7 +85,7 @@
 
   <!-- Ảnh minh họa (nếu có) -->
   <h2>Unit Diagram</h2>
-  <img src="outline.png" alt="Unit Outline Diagram">
+  <img src="swin_logo.png" alt="Unit Outline Diagram">
 
   <!-- Footer -->
   <footer>
